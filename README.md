@@ -7,7 +7,7 @@
 5.Write some code <br>
 6.Save the file<br>
 7.In the source control tab hit "Initialize Repository" the folder name will be the name<br>
-8. Hit commit and in the new file pop up write the commit message<br>
+8.Hit publish branch and choose if you want it public or private. Hit commit and in the new file pop up write the commit message<br>
 9.Save that file and ex out of it<br>
 10. Then hit sync repository and now your work is on github<br>
 
